@@ -1,1 +1,1 @@
-# OIBSIP_NumberGuessingGame
+# OIBGRIP-NumberGuessingGame
